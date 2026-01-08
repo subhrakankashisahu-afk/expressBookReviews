@@ -1,0 +1,8 @@
+curl http://localhost:5000/
+
+{
+  "books": {
+    "1": { "title": "Book One", "author": "Author A", "reviews": {} },
+    "2": { "title": "Book Two", "author": "Author B", "reviews": {} }
+  }
+}
