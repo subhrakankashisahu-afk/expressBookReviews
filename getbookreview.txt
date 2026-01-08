@@ -1,0 +1,7 @@
+curl http://localhost:5000/review/1
+
+{
+  "reviews": {
+    "user1": "Great book"
+  }
+}
